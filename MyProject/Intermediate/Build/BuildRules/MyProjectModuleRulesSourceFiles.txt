@@ -1,0 +1,3 @@
+C:\Users\Alexandre\Desktop\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Users\Alexandre\Desktop\MyProject\Source\MyProject.Target.cs
+C:\Users\Alexandre\Desktop\MyProject\Source\MyProjectEditor.Target.cs

@@ -1,0 +1,49 @@
+﻿  Creating makefile for MyProjectEditor (ini files are newer than makefile)
+  Parsing headers for MyProjectEditor
+    Running UnrealHeaderTool "C:\Users\Alexandre\Desktop\MyProject\MyProject.uproject" "C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProjectEditor in 7,2774315 seconds
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0002.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0003.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0004.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0005.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0006.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0007.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0008.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0009.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0015.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0016.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0018.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0025.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0026.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0027.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0028.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0036.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0038.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Binaries\Win64\UE4Editor-MyProject-0046.dll
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0003.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0004.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0005.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0006.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0007.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0008.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0009.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0015.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0016.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0018.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0025.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0026.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0027.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0028.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0036.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0038.lib
+  Deleted hot-reload file: C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0046.lib
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-MyProject.lib
+       Criando biblioteca C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib e objeto C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.exp
+    [2/3] UE4Editor-MyProject.dll
+       Criando biblioteca C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.lib e objeto C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.exp
+    [3/3] MyProjectEditor.target
+  Total time in Parallel executor: 1,24 seconds
+  Total execution time: 10,83 seconds
