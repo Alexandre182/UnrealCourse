@@ -1,0 +1,1655 @@
+﻿Log file open, 08/11/19 17:33:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410510
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.11-20.33.44:465][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.11-20.33.44:465][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.11-20.33.44:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.11-20.33.44:465][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.11-20.33.44:465][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.11-20.33.44:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.11-20.33.44:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.11-20.33.44:466][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.11-20.33.44:466][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.11-20.33.44:466][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.11-20.33.44:466][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.11-20.33.44:466][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.11-20.33.44:467][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.11-20.33.44:467][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.11-20.33.44:467][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.11-20.33.44:467][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.11-20.33.44:467][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.11-20.33.44:468][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.11-20.33.44:468][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.11-20.33.44:468][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.11-20.33.44:468][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.11-20.33.44:468][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.11-20.33.44:468][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.11-20.33.44:468][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.11-20.33.44:469][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.11-20.33.44:469][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.11-20.33.44:469][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.11-20.33.44:469][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.11-20.33.44:469][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.11-20.33.44:469][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.11-20.33.44:469][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.11-20.33.44:470][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.11-20.33.44:470][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.11-20.33.44:470][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.11-20.33.44:470][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.11-20.33.44:470][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.11-20.33.44:497][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:497][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.11-20.33.44:497][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.11-20.33.44:497][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:498][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.11-20.33.44:498][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:498][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.11-20.33.44:498][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.11-20.33.44:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.11-20.33.44:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.11-20.33.44:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.11-20.33.44:499][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.11-20.33.44:499][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.11-20.33.44:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.11-20.33.44:500][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.11-20.33.44:500][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.11-20.33.44:500][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.11-20.33.44:500][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.11-20.33.44:500][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.11-20.33.44:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.11-20.33.44:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.11-20.33.44:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.11-20.33.44:501][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.11-20.33.44:501][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.11-20.33.44:501][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:501][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.11-20.33.44:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.11-20.33.44:502][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.11-20.33.44:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.11-20.33.44:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.11-20.33.44:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.11-20.33.44:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.11-20.33.44:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.11-20.33.44:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.11-20.33.44:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.11-20.33.44:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.11-20.33.44:505][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.11-20.33.44:505][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.11-20.33.44:505][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.11-20.33.44:505][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.11-20.33.44:505][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.11-20.33.44:506][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:506][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.11-20.33.44:506][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.11-20.33.44:506][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.11-20.33.44:506][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.11-20.33.44:506][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.11-20.33.44:506][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.11-20.33.44:507][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.11-20.33.44:507][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.11-20.33.44:507][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:507][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.11-20.33.44:507][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.11-20.33.44:507][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.11-20.33.44:507][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.11-20.33.44:508][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.11-20.33.44:508][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.11-20.33.44:508][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.11-20.33.44:508][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.11-20.33.44:508][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.11-20.33.44:509][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.11-20.33.44:509][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.11-20.33.44:509][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.11-20.33.44:509][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.11-20.33.44:509][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:510][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.11-20.33.44:510][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.11-20.33.44:510][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.11-20.33.44:510][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.11-20.33.44:532][  0]LogHAL: Display: Platform has ~ 16 GB [17125179392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.11-20.33.44:532][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.11-20.33.44:532][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.11-20.33.44:533][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:533][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.11-20.33.44:533][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.11-20.33.44:533][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:533][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.11-20.33.44:533][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:533][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.11-20.33.44:533][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.11-20.33.44:533][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.11-20.33.44:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.11-20.33.44:535][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.11-20.33.44:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.11-20.33.44:537][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.11-20.33.44:538][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.11-20.33.44:539][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.11-20.33.44:540][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.11-20.33.44:540][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.11-20.33.44:540][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.11-20.33.44:540][  0]LogInit: Computer: DESKTOP-PIVJ3MB
+[2019.08.11-20.33.44:540][  0]LogInit: User: Alexandre
+[2019.08.11-20.33.44:540][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.11-20.33.44:540][  0]LogInit: High frequency timer resolution =3.320343 MHz
+[2019.08.11-20.33.44:541][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.11-20.33.44:541][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.11-20.33.44:541][  0]LogMemory: Process Physical Memory: 97.32 MB used, 97.32 MB peak
+[2019.08.11-20.33.44:541][  0]LogMemory: Process Virtual Memory: 88.77 MB used, 88.77 MB peak
+[2019.08.11-20.33.44:541][  0]LogMemory: Physical Memory: 4974.73 MB used,  11357.11 MB free, 16331.84 MB total
+[2019.08.11-20.33.44:541][  0]LogMemory: Virtual Memory: 4654.23 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.08.11-20.33.44:673][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.08.11-20.33.44:674][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.08.11-20.33.44:885][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.11-20.33.44:939][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.11-20.33.44:939][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.11-20.33.45:168][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.11-20.33.45:168][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.11-20.33.45:289][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.08.11-20.33.45:289][  0]LogD3D11RHI:       6052/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.11-20.33.45:294][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.11-20.33.45:294][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.11-20.33.45:294][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.11-20.33.45:302][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.11-20.33.45:302][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.11-20.33.45:302][  0]LogWindows: EnumDisplayDevices:
+[2019.08.11-20.33.45:302][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.08.11-20.33.45:303][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.08.11-20.33.45:303][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.08.11-20.33.45:304][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.08.11-20.33.45:304][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.11-20.33.45:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.08.11-20.33.45:304][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.08.11-20.33.45:304][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.08.11-20.33.45:304][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.08.11-20.33.45:372][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.11-20.33.45:377][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.11-20.33.45:378][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.11-20.33.45:378][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.11-20.33.45:387][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.11-20.33.45:893][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.11-20.33.45:912][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.11-20.33.45:930][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.11-20.33.45:951][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.11-20.33.45:971][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.11-20.33.45:990][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.11-20.33.46:009][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.11-20.33.46:028][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.11-20.33.46:040][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.11-20.33.46:140][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.11-20.33.46:140][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.11-20.33.46:140][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.11-20.33.46:140][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.11-20.33.46:140][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.11-20.33.46:140][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.11-20.33.46:141][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.11-20.33.46:145][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.11-20.33.46:213][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.11-20.33.46:213][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.11-20.33.46:243][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.11-20.33.46:243][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.11-20.33.46:260][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.11-20.33.46:279][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.11-20.33.46:296][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.11-20.33.46:313][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.11-20.33.46:368][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.11-20.33.46:368][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.11-20.33.46:369][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.11-20.33.46:391][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.11-20.33.46:518][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Intermediate/Shaders/WorkingDirectory/6104/).
+[2019.08.11-20.33.46:518][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexandre/AppData/Local/Temp/UnrealShaderWorkingDir/C9E4C01542B71CD070F52DA551361967/'.
+[2019.08.11-20.33.46:521][  0]LogXGEController: Cleaning working directory: C:/Users/Alexandre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.11-20.33.46:522][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.11-20.33.46:522][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.11-20.33.46:522][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.11-20.33.47:132][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.11-20.33.47:215][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.11-20.33.47:215][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.11-20.33.47:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.11-20.33.47:215][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.11-20.33.47:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.11-20.33.47:215][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.11-20.33.47:229][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.11-20.33.47:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.11-20.33.47:229][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.11-20.33.47:243][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexandre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.11-20.33.47:244][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.11-20.33.47:244][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.11-20.33.47:284][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.11-20.33.47:286][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.11-20.33.47:287][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.11-20.33.47:386][  0]LogAssetRegistry: FAssetRegistry took 0.0400 seconds to start up
+[2019.08.11-20.33.47:852][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.11-20.33.48:034][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.11-20.33.48:034][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.11-20.33.48:034][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.11-20.33.48:034][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.11-20.33.48:034][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.11-20.33.48:046][  0]LogNetVersion: MyProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2788865488)
+[2019.08.11-20.33.48:540][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.050170 seconds
+[2019.08.11-20.33.48:547][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.11-20.33.48:547][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.11-20.33.48:547][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.11-20.33.49:629][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.11-20.33.49:646][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.11-20.33.49:890][  0]SourceControl: Source control is disabled
+[2019.08.11-20.33.49:890][  0]SourceControl: Source control is disabled
+[2019.08.11-20.33.49:894][  0]SourceControl: Source control is disabled
+[2019.08.11-20.33.49:897][  0]SourceControl: Source control is disabled
+[2019.08.11-20.33.50:056][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.11-20.33.50:250][  0]LogOcInput: OculusInput pre-init called
+[2019.08.11-20.33.51:059][  0]LogEngine: Initializing Engine...
+[2019.08.11-20.33.51:060][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.11-20.33.51:062][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.11-20.33.51:334][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.11-20.33.51:354][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.11-20.33.51:391][  0]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-20.33.51:414][  0]LogInit: FAudioDevice initialized.
+[2019.08.11-20.33.51:415][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.11-20.33.51:550][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.11-20.33.51:555][  0]LogInit: Texture streaming: Enabled
+[2019.08.11-20.33.51:589][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.11-20.33.51:589][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={A74DB6C6-4A1E-03E5-4B70-39B052EC3FCA}
+[2019.08.11-20.33.51:618][  0]LogInit: Transaction tracking system initialized
+[2019.08.11-20.33.51:674][  0]BlueprintLog: New page: Editor Load
+[2019.08.11-20.33.51:914][  0]LocalizationService: Localization service is disabled
+[2019.08.11-20.33.52:286][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.11-20.33.52:286][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.11-20.33.52:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/' took 0.04s
+[2019.08.11-20.33.52:587][  0]SourceControl: Source control is disabled
+[2019.08.11-20.33.52:587][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/Maps/SunTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.11-20.33.52:588][  0]LightingResults: New page: Lighting Build
+[2019.08.11-20.33.52:592][  0]MapCheck: New page: Map Check
+[2019.08.11-20.33.52:592][  0]LightingResults: New page: Lighting Build
+[2019.08.11-20.33.52:615][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.08.11-20.33.53:610][  0]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-20.33.53:661][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.11-20.33.53:736][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.08.11-20.33.53:736][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.11-20.33.53:737][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.343ms to complete.
+[2019.08.11-20.33.53:737][  0]LogFileHelpers: Loading map 'SunTemple' took 1.150
+[2019.08.11-20.33.53:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.33.53:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.33.53:913][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.33.53:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.33.53:935][  0]LogCollectionManager: Loaded 0 collections in 0.003562 seconds
+[2019.08.11-20.33.53:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Collections/' took 0.01s
+[2019.08.11-20.33.53:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/Developers/Alexandre/Collections/' took 0.01s
+[2019.08.11-20.33.53:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/Collections/' took 0.00s
+[2019.08.11-20.33.53:970][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.11-20.33.53:982][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2739 classes and 661 folders.
+[2019.08.11-20.33.53:994][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.11-20.33.53:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.53:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.53:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.53:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.53:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:002][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-20.33.54:063][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.11-20.33.54:075][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.11-20.33.54:222][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.11-20.33.54:225][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.11-20.33.54:231][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.11-20.33.54:306][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2019.08.11-20.33.54:459][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.11-20.33.54:459][  0]LogLoad: (Engine Initialization) Total time: 12.68 seconds
+[2019.08.11-20.33.54:459][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.11-20.33.54:470][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.11-20.33.54:515][  0]LogAssetRegistry: Asset discovery search completed in 7.1531 seconds
+[2019.08.11-20.33.54:517][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.11-20.33.54:518][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000182 seconds (updated 0 objects)
+[2019.08.11-20.33.54:518][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.11-20.33.54:558][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.11-20.33.58:876][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-20.33.59:080][525]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.11-20.33.59:089][525]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-20.33.59:435][525]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.08.11-20.34.00:613][525]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.11-20.34.00:676][526]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.11-20.34.03:871][820]LogRenderer: Reallocating scene render targets to support 1168x676 Format 10 NumSamples 1 (Frame:1).
+[2019.08.11-20.34.18:668][409]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-20.34.18:889][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.08.11-20.34.20:398][568]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BPF2CC589E471A044478DCCC92E576065B.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-20.34.21:430][682]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BPD0754FC34999646D2AD029891156A45F.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-20.34.23:123][875]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-20.34.23:126][875]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-20.34.24:657][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-20.34.24:684][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.34.24:684][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-20.34.24:685][ 51]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 2:34:24 PM)
+[2019.08.11-20.34.24:699][ 51]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-20.34.24:761][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061786s)
+[2019.08.11-20.34.24:762][ 51]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-20.34.24:763][ 51]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.08.11-20.34.24:763][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.063541s)
+[2019.08.11-20.34.24:796][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.08.11-20.34.24:826][ 51]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-20.34.24:840][ 51]LogInit: FAudioDevice initialized.
+[2019.08.11-20.34.24:886][ 51]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-20.34.24:909][ 51]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-17.34.24
+[2019.08.11-20.34.24:910][ 51]LogWorld: Bringing up level for play took: 0.021762
+[2019.08.11-20.34.24:930][ 51]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.11-20.34.24:936][ 51]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.11-20.34.24:936][ 51]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.08.11-20.34.24:937][ 51]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-20.34.24:937][ 51]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-20.34.24:937][ 51]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-20.34.24:941][ 51]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-20.34.24:941][ 51]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.091
+[2019.08.11-20.34.24:941][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.34.27:289][268]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.34.29:513][535]LogTemp: Warning: Overlap End.
+[2019.08.11-20.34.31:156][728]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.34.32:341][870]LogTemp: Warning: Overlap End.
+[2019.08.11-20.34.33:733][ 37]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.34.34:816][167]LogTemp: Warning: Overlap End.
+[2019.08.11-20.34.36:013][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.34.36:013][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.34.36:054][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-20.34.36:055][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.34.36:096][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.34.36:151][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2019.08.11-20.34.36:177][311]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.08.11-20.34.37:722][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-20.34.37:939][519]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-20.34.52:834][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-20.34.52:972][757]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-20.34.53:262][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.08.11-20.34.53:871][816]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP13D1C9F043B6B9D76A711DA26E45C3E4.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-20.34.55:008][943]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-20.34.55:012][943]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-20.34.56:147][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-20.34.56:176][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.34.56:176][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-20.34.56:176][ 71]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 2:34:56 PM)
+[2019.08.11-20.34.56:177][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-20.34.56:243][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065897s)
+[2019.08.11-20.34.56:243][ 71]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-20.34.56:244][ 71]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2019.08.11-20.34.56:244][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.067316s)
+[2019.08.11-20.34.56:275][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.08.11-20.34.56:306][ 71]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-20.34.56:320][ 71]LogInit: FAudioDevice initialized.
+[2019.08.11-20.34.56:352][ 71]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-20.34.56:374][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-17.34.56
+[2019.08.11-20.34.56:375][ 71]LogWorld: Bringing up level for play took: 0.021401
+[2019.08.11-20.34.56:389][ 71]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-20.34.56:389][ 71]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-20.34.56:389][ 71]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-20.34.56:392][ 71]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-20.34.56:392][ 71]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.458
+[2019.08.11-20.34.56:392][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.34.58:549][326]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.00:350][542]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.02:134][756]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.03:387][906]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.04:997][ 99]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.06:073][228]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.07:582][409]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.09:234][607]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.13:034][ 63]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.13:936][171]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.15:094][310]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.15:843][399]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.16:262][449]LogCharacterMovement: Main_BP_C_0 is stuck and failed to move! Velocity: X=34.13 Y=0.25 Z=0.00 Location: X=630.80 Y=3383.17 Z=134.39 Normal: X=-0.65 Y=-0.00 Z=-0.76 PenetrationDepth:9.511 Actor:FloorSwitch_BP_2 Component:Door BoneName:None (0 other events since notify)
+[2019.08.11-20.35.16:936][530]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.17:562][605]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.19:504][838]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.19:988][896]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.20:121][912]LogCharacterMovement: Main_BP_C_0 is stuck and failed to move! Velocity: X=599.98 Y=4.26 Z=0.00 Location: X=656.10 Y=3384.77 Z=134.26 Normal: X=-0.01 Y=-0.00 Z=-1.00 PenetrationDepth:0.200 Actor:FloorSwitch_BP_2 Component:Door BoneName:None (3 other events since notify)
+[2019.08.11-20.35.20:939][ 10]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.22:046][143]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.27:789][832]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.29:131][993]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.30:273][130]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.31:331][257]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.34:975][694]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.35:767][789]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.37:176][958]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.37:742][ 26]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.37:976][ 54]LogCharacterMovement: Main_BP_C_0 is stuck and failed to move! Velocity: X=72.66 Y=4.57 Z=0.00 Location: X=697.28 Y=3360.41 Z=134.62 Normal: X=0.51 Y=0.00 Z=-0.86 PenetrationDepth:10.371 Actor:FloorSwitch_BP_2 Component:Door BoneName:None (6 other events since notify)
+[2019.08.11-20.35.40:419][347]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.41:303][453]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.43:146][674]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.43:287][691]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.44:087][787]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.45:230][924]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.46:815][111]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.47:750][223]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.48:159][272]LogCharacterMovement: Main_BP_C_0 is stuck and failed to move! Velocity: X=438.96 Y=140.18 Z=0.00 Location: X=645.55 Y=3373.85 Z=134.26 Normal: X=-0.26 Y=-0.00 Z=-0.97 PenetrationDepth:7.223 Actor:FloorSwitch_BP_2 Component:Door BoneName:None (2 other events since notify)
+[2019.08.11-20.35.48:985][371]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.49:652][451]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.51:787][707]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.52:212][758]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.52:305][769]LogCharacterMovement: Main_BP_C_0 is stuck and failed to move! Velocity: X=575.61 Y=169.33 Z=0.00 Location: X=625.94 Y=3346.16 Z=134.39 Normal: X=-0.69 Y=-0.00 Z=-0.73 PenetrationDepth:4.894 Actor:FloorSwitch_BP_2 Component:Door BoneName:None (5 other events since notify)
+[2019.08.11-20.35.53:591][923]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.54:000][972]LogTemp: Warning: Overlap End.
+[2019.08.11-20.35.54:083][982]LogCharacterMovement: Main_BP_C_0 is stuck and failed to move! Velocity: X=572.72 Y=178.86 Z=0.00 Location: X=618.62 Y=3342.16 Z=134.45 Normal: X=-0.83 Y=-0.00 Z=-0.56 PenetrationDepth:3.558 Actor:FloorSwitch_BP_2 Component:Door BoneName:None (4 other events since notify)
+[2019.08.11-20.35.57:861][435]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.35.58:086][462]LogTemp: Warning: Overlap End.
+[2019.08.11-20.36.01:414][861]LogTemp: Warning: Overlap Begin.
+[2019.08.11-20.36.02:726][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.36.02:727][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.36.02:768][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-20.36.02:768][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-20.36.02:805][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-20.36.02:812][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.08.11-20.36.02:841][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.11-20.36.41:564][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-20.36.42:449][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.08.11-20.36.42:456][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-20.36.42:500][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.08.11-20.36.43:612][493]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTemple130375E94CCBF7AD1DF0C188E542AB3E.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/Maps/SunTemple.umap'
+[2019.08.11-20.36.43:653][493]LogFileHelpers: Saving map 'SunTemple' took 1.189
+[2019.08.11-22.59.30:170][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-22.59.30:316][676]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.01.34:161][551]LogEditorTransaction: Undo Mouse Drag
+[2019.08.11-23.01.45:473][866]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.01.45:698][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.08.11-23.01.46:529][952]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP638CCC8440E1F8A690D90BB79A928B8B.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.01.48:925][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.01.49:973][344]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.01.50:159][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.08.11-23.01.50:916][419]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BPD5250DAD4A3EF905F81496B839AC767E.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.01.52:229][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.02.23:626][105]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.02.23:866][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.08.11-23.02.24:354][145]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP131B5B834B67807ED76AE19BD29FA430.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.02.24:494][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.02.24:542][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.08.11-23.02.25:679][156]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTemple_Auto1211AC0114C89C0F652EFB1B25A2E2540.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Autosaves/Game/Maps/SunTemple_Auto1.umap'
+[2019.08.11-23.02.25:688][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SunTemple' took 1.179
+[2019.08.11-23.02.25:688][156]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.179
+[2019.08.11-23.03.41:932][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.03.42:047][ 75]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.03.42:050][ 75]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.03.42:998][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.03.43:157][194]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.08.11-23.03.44:535][194]LogSlate: Window 'Save Content' being destroyed
+[2019.08.11-23.03.44:546][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.03.44:586][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.08.11-23.03.45:700][194]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTemple9286A69B4DFD32B19CFC82A03E857F2F.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/Maps/SunTemple.umap'
+[2019.08.11-23.03.45:744][194]LogFileHelpers: Saving map 'SunTemple' took 1.193
+[2019.08.11-23.03.48:673][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.03.48:819][555]Candidate modules for hot reload:
+[2019.08.11-23.03.48:820][555]  MyProject
+[2019.08.11-23.03.48:820][555]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,4649 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject" "C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2019.08.11-23.03.48:824][555]Warning: Starting HotReload took  0.0s.
+[2019.08.11-23.04.04:445][407]CompilerResultsLog: New page: Compilation - Aug 11, 2019, 5:04:04 PM
+[2019.08.11-23.04.04:445][407]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Alexandre\Documents\GitHub\UnrealCourse).
+[2019.08.11-23.04.04:445][407]CompilerResultsLog: Creating makefile for MyProjectEditor (ini files are newer than makefile)
+[2019.08.11-23.04.04:445][407]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2019.08.11-23.04.04:445][407]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\MyProject.uproject" "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.11-23.04.04:446][407]CompilerResultsLog: Reflection code generated for MyProjectEditor in 8,0223112 seconds
+[2019.08.11-23.04.04:446][407]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.04.04:446][407]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.04.04:446][407]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.04.04:446][407]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.04.04:446][407]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.04.04:446][407]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.04.04:447][407]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.04.04:447][407]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.04.04:447][407]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.11-23.04.04:447][407]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.11-23.04.04:447][407]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.08.11-23.04.04:447][407]CompilerResultsLog:   [1/6] MyProject.init.gen.cpp
+[2019.08.11-23.04.04:447][407]CompilerResultsLog:   [2/6] FloorSwitch.gen.cpp
+[2019.08.11-23.04.04:447][407]CompilerResultsLog:   [3/6] FloorSwitch.cpp
+[2019.08.11-23.04.04:447][407]CompilerResultsLog:   [4/6] UE4Editor-MyProject-4649.lib
+[2019.08.11-23.04.04:447][407]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4649.lib e objeto C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4649.exp
+[2019.08.11-23.04.04:448][407]CompilerResultsLog:   [5/6] UE4Editor-MyProject-4649.dll
+[2019.08.11-23.04.04:448][407]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4649.suppressed.lib e objeto C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4649.suppressed.exp
+[2019.08.11-23.04.04:448][407]CompilerResultsLog:   [6/6] MyProjectEditor.target
+[2019.08.11-23.04.04:448][407]CompilerResultsLog: Total time in Parallel executor: 2,49 seconds
+[2019.08.11-23.04.04:448][407]CompilerResultsLog: Total execution time: 15,30 seconds
+[2019.08.11-23.04.04:448][407]LogMainFrame: MainFrame: Module compiling took 15.632 seconds
+[2019.08.11-23.04.04:480][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.08.11-23.04.04:483][407]LogBlueprintActionDatabase: Requesting refresh due to module change: MyProject (unloaded)
+[2019.08.11-23.04.04:519][407]LogClass: Could not find existing class FloorSwitch in package /Script/MyProject for HotReload, assuming new class
+[2019.08.11-23.04.04:519][407]LogClass: Function OnOverlapBegin is new.
+[2019.08.11-23.04.04:519][407]LogClass: Function OnOverlapEnd is new.
+[2019.08.11-23.04.04:519][407]LogClass: Function UpdateDoorLocation is new.
+[2019.08.11-23.04.04:520][407]LogClass: Function UpdateFloorSwitchLocation is new.
+[2019.08.11-23.04.04:537][407]LogHotReload: Re-instancing FloorSwitch after hot-reload.
+[2019.08.11-23.04.04:857][407]LogBlueprintActionDatabase: Requesting refresh due to module change: MyProject (loaded)
+[2019.08.11-23.04.04:858][407]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2019.08.11-23.04.04:862][407]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.08.11-23.04.05:048][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.08.11-23.04.05:050][407]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.08.11-23.04.05:069][407]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2740 classes and 663 folders.
+[2019.08.11-23.04.05:071][407]Display: HotReload took 16.3s.
+[2019.08.11-23.04.18:758][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.04.18:985][448]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.04.53:757][981]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.04.54:115][981]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2019.08.11-23.04.54:630][ 24]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP2E4B01684CE5975B0AD339BC025E97C3.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.04.56:748][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.04.56:848][242]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.04.56:852][242]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.04.57:911][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.04.58:044][376]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.04.58:071][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.04.58:071][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.04.58:071][376]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:04:58 PM)
+[2019.08.11-23.04.58:071][376]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.04.58:144][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072667s)
+[2019.08.11-23.04.58:145][376]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.04.58:145][376]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2019.08.11-23.04.58:146][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.074492s)
+[2019.08.11-23.04.58:218][376]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.08.11-23.04.58:249][376]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.04.58:262][376]LogInit: FAudioDevice initialized.
+[2019.08.11-23.04.58:296][376]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.04.58:317][376]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.04.58
+[2019.08.11-23.04.58:318][376]LogWorld: Bringing up level for play took: 0.021793
+[2019.08.11-23.04.58:332][376]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.04.58:333][376]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.04.58:333][376]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.04.58:336][376]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.04.58:336][376]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.514
+[2019.08.11-23.04.58:337][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.05.00:188][593]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.05.01:223][717]LogTemp: Warning: Overlap End.
+[2019.08.11-23.05.03:575][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.05.03:576][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.05.03:613][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.05.03:613][999]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.05.03:650][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.05.03:660][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.08.11-23.05.03:693][  0]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.11-23.05.07:514][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.05.07:705][243]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.05.29:358][101]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.05.29:568][101]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.08.11-23.05.30:551][204]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP45D377CE4226CF7B8516CCA727209596.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.05.31:958][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.05.34:315][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.05.34:460][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.05.34:487][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.05.34:487][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.05.34:487][658]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:05:34 PM)
+[2019.08.11-23.05.34:487][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.05.34:568][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080161s)
+[2019.08.11-23.05.34:568][658]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.05.34:569][658]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2019.08.11-23.05.34:569][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.081785s)
+[2019.08.11-23.05.34:608][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.08.11-23.05.34:642][658]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.05.34:655][658]LogInit: FAudioDevice initialized.
+[2019.08.11-23.05.34:688][658]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.05.34:714][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.05.34
+[2019.08.11-23.05.34:715][658]LogWorld: Bringing up level for play took: 0.026291
+[2019.08.11-23.05.34:729][658]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.05.34:729][658]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.05.34:730][658]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.05.34:733][658]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.05.34:733][658]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.117
+[2019.08.11-23.05.34:734][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.05.37:907][905]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.05.39:232][ 64]LogTemp: Warning: Overlap End.
+[2019.08.11-23.05.40:633][232]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.05.41:775][369]LogTemp: Warning: Overlap End.
+[2019.08.11-23.05.43:426][567]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.05.44:601][708]LogTemp: Warning: Overlap End.
+[2019.08.11-23.05.45:769][848]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.05.46:812][973]LogTemp: Warning: Overlap End.
+[2019.08.11-23.05.48:163][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.05.48:164][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.05.48:208][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.05.48:208][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.05.48:260][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.05.48:268][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.11-23.05.48:292][136]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.11-23.05.50:187][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.05.57:596][234]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.05.57:782][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.08.11-23.05.58:972][363]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BPA0D6399F4E2EF7D75B1B05BD944DA890.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.06.00:742][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.06.00:859][582]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.06.00:863][582]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.06.02:286][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.06.02:370][755]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.06.02:396][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.06.02:396][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.06.02:396][755]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:06:02 PM)
+[2019.08.11-23.06.02:397][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.06.02:459][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062129s)
+[2019.08.11-23.06.02:460][755]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.06.02:460][755]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.08.11-23.06.02:460][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.063471s)
+[2019.08.11-23.06.02:494][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.08.11-23.06.02:523][755]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.06.02:536][755]LogInit: FAudioDevice initialized.
+[2019.08.11-23.06.02:578][755]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.06.02:612][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.06.02
+[2019.08.11-23.06.02:613][755]LogWorld: Bringing up level for play took: 0.033343
+[2019.08.11-23.06.02:626][755]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.06.02:626][755]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.06.02:627][755]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.06.02:629][755]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.06.02:629][755]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.221
+[2019.08.11-23.06.02:630][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.06.06:178][177]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.07:880][381]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.09:364][559]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.10:681][717]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.12:165][895]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.13:391][ 42]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.15:016][237]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.16:875][460]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.18:226][622]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.19:830][814]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.20:981][952]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.22:295][109]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.23:481][251]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.24:831][413]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.26:566][621]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.27:534][734]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.31:194][173]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.32:331][309]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.33:442][442]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.34:584][579]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.35:644][706]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.06.36:519][811]LogTemp: Warning: Overlap End.
+[2019.08.11-23.06.37:428][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.06.37:428][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.06.37:472][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.06.37:472][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.06.37:510][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.06.37:517][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.08.11-23.06.37:541][921]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.08.11-23.12.41:408][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BottomTrim_Sqr_4)
+[2019.08.11-23.12.48:687][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.12.48:839][469]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.13.50:294][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.14.19:346][146]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.08.11-23.14.27:485][707]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.14.27:485][707]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.14.27:486][707]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.14.27:486][707]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.14.31:242][962]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.11-23.14.47:392][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.14.47:554][ 96]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.14.47:918][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2019.08.11-23.14.48:450][138]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BPB987395A451AF4233F6860AFD90A152D.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.14.51:482][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.14.51:639][215]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.14.51:654][215]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.15.05:361][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.05:525][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.15.19:821][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.19:944][626]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.15.20:280][626]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.08.11-23.15.20:784][668]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP28B7F5CA41B25F2D339DD8B69B3C1ABC.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.15.26:452][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.26:557][262]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.15.26:560][262]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.15.27:908][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.28:049][430]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.15.28:081][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.15.28:081][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.15.28:081][430]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:15:28 PM)
+[2019.08.11-23.15.28:082][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.15.28:162][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080169s)
+[2019.08.11-23.15.28:163][430]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.15.28:163][430]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2019.08.11-23.15.28:164][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.081775s)
+[2019.08.11-23.15.28:227][430]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.08.11-23.15.28:258][430]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.15.28:271][430]LogInit: FAudioDevice initialized.
+[2019.08.11-23.15.28:304][430]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.15.28:332][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.15.28
+[2019.08.11-23.15.28:333][430]LogWorld: Bringing up level for play took: 0.028668
+[2019.08.11-23.15.28:347][430]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.15.28:347][430]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.15.28:347][430]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.15.28:350][430]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.15.28:350][430]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.499
+[2019.08.11-23.15.28:351][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.15.30:357][667]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.15.31:925][855]LogTemp: Warning: Overlap End.
+[2019.08.11-23.15.32:959][979]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.15.33:910][ 93]LogTemp: Warning: Overlap End.
+[2019.08.11-23.15.35:159][243]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.15.36:395][391]LogTemp: Warning: Overlap End.
+[2019.08.11-23.15.38:115][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.15.38:115][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.15.38:160][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.15.38:161][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.15.38:210][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.15.38:219][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.08.11-23.15.38:244][598]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.11-23.15.39:105][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.39:276][719]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.15.47:403][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.47:542][462]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.15.47:779][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.08.11-23.15.48:273][509]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP120F30794F0FAD4ED322BEA124EC9FC3.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.15.49:096][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.49:190][609]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.15.49:193][609]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.15.50:190][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.15.50:314][732]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.15.50:335][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.15.50:335][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.15.50:335][732]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:15:50 PM)
+[2019.08.11-23.15.50:335][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.15.50:403][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067830s)
+[2019.08.11-23.15.50:404][732]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.15.50:404][732]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.08.11-23.15.50:404][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.069098s)
+[2019.08.11-23.15.50:437][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.08.11-23.15.50:466][732]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.15.50:479][732]LogInit: FAudioDevice initialized.
+[2019.08.11-23.15.50:511][732]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.15.50:550][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.15.50
+[2019.08.11-23.15.50:551][732]LogWorld: Bringing up level for play took: 0.038123
+[2019.08.11-23.15.50:565][732]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.15.50:565][732]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.15.50:565][732]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.15.50:568][732]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.15.50:568][732]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.282
+[2019.08.11-23.15.50:569][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.15.53:100][ 32]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.15.54:520][202]LogTemp: Warning: Overlap End.
+[2019.08.11-23.15.55:505][320]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.15.56:867][483]LogTemp: Warning: Overlap End.
+[2019.08.11-23.15.57:778][592]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.15.59:112][752]LogTemp: Warning: Overlap End.
+[2019.08.11-23.16.02:324][137]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.16.04:050][344]LogTemp: Warning: Overlap End.
+[2019.08.11-23.16.04:911][447]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.16.05:946][571]LogTemp: Warning: Overlap End.
+[2019.08.11-23.16.06:729][665]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.16.08:071][826]LogTemp: Warning: Overlap End.
+[2019.08.11-23.16.10:280][ 91]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.16.11:255][208]LogTemp: Warning: Overlap End.
+[2019.08.11-23.16.12:364][341]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.16.14:124][552]LogTemp: Warning: Overlap End.
+[2019.08.11-23.16.15:017][659]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.16.16:177][798]LogTemp: Warning: Overlap End.
+[2019.08.11-23.16.16:943][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.16.16:944][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.16.16:988][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.16.16:988][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.16.17:027][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.16.17:038][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.08.11-23.16.17:070][891]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.11-23.16.36:281][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.16.36:567][115]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.16.42:893][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.16.42:942][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.08.11-23.16.44:101][654]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTemple_Auto26D91490E4A43986769C9DE9A8858C7C3.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Autosaves/Game/Maps/SunTemple_Auto2.umap'
+[2019.08.11-23.16.44:108][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SunTemple' took 1.202
+[2019.08.11-23.16.44:108][654]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.202
+[2019.08.11-23.16.44:855][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.17.30:827][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.17.41:678][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.18.10:765][  5]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.18.10:765][  5]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.18.10:766][  5]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.18.10:766][  5]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.18.12:703][158]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.11-23.18.20:999][891]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.18.20:999][891]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.18.21:000][891]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.18.21:000][891]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.18.26:232][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.18.26:233][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.18.26:233][298]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.18.26:233][298]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.18.31:754][724]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.11-23.18.32:350][779]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.11-23.18.38:745][399]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.11-23.18.39:161][432]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.11-23.18.51:338][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.18.51:435][638]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.18.51:695][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.08.11-23.18.52:345][704]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BP19D2DD304D416441014D63A13D7C798D.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.18.53:316][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.18.53:444][825]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.18.53:449][825]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.18.57:676][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.18.57:826][338]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.18.57:849][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.18.57:849][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.18.57:849][338]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:18:57 PM)
+[2019.08.11-23.18.57:849][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.18.57:917][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067672s)
+[2019.08.11-23.18.57:918][338]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.18.57:918][338]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.08.11-23.18.57:919][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.069490s)
+[2019.08.11-23.18.57:953][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.08.11-23.18.57:985][338]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.18.57:998][338]LogInit: FAudioDevice initialized.
+[2019.08.11-23.18.58:033][338]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.18.58:054][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.18.58
+[2019.08.11-23.18.58:055][338]LogWorld: Bringing up level for play took: 0.021734
+[2019.08.11-23.18.58:069][338]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.18.58:069][338]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.18.58:069][338]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.18.58:072][338]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.18.58:072][338]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 1.223
+[2019.08.11-23.18.58:072][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.18.59:839][545]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.19.00:941][677]LogTemp: Warning: Overlap End.
+[2019.08.11-23.19.03:137][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.19.03:137][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.19.03:179][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.19.03:179][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.19.03:221][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.19.03:230][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.08.11-23.19.03:257][941]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.11-23.19.05:402][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.19.05:574][215]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayMechanics/FloorSwitch_BP.FloorSwitch_BP
+[2019.08.11-23.19.23:513][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.19.28:022][196]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.19.28:022][196]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.19.28:023][196]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.11-23.19.28:023][196]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.11-23.20.03:850][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.20.03:982][363]BlueprintLog: New page: Compile FloorSwitch_BP
+[2019.08.11-23.20.04:272][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.08.11-23.20.04:983][434]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/FloorSwitch_BPE97D723B4430FC0C8B75EC8AC469FF42.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/GameplayMechanics/FloorSwitch_BP.uasset'
+[2019.08.11-23.20.08:327][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.20.08:421][834]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.20.08:425][834]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2019.08.11-23.20.10:719][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.20.10:819][103]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.20.10:843][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.20.10:843][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.20.10:843][103]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:20:10 PM)
+[2019.08.11-23.20.10:843][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.20.10:922][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078791s)
+[2019.08.11-23.20.10:923][103]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.20.10:923][103]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.08.11-23.20.10:924][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.080173s)
+[2019.08.11-23.20.10:955][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.08.11-23.20.10:985][103]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.20.10:998][103]LogInit: FAudioDevice initialized.
+[2019.08.11-23.20.11:030][103]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.20.11:053][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.20.11
+[2019.08.11-23.20.11:054][103]LogWorld: Bringing up level for play took: 0.022895
+[2019.08.11-23.20.11:068][103]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.20.11:068][103]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.20.11:068][103]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.20.11:071][103]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.20.11:071][103]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.221
+[2019.08.11-23.20.11:071][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.20.13:083][341]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.20.14:084][461]LogTemp: Warning: Overlap End.
+[2019.08.11-23.20.15:919][681]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.20.17:195][834]LogTemp: Warning: Overlap End.
+[2019.08.11-23.20.18:654][  9]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.20.19:681][132]LogTemp: Warning: Overlap End.
+[2019.08.11-23.20.21:361][330]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.20.22:039][411]LogTemp: Warning: Overlap End.
+[2019.08.11-23.20.25:225][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.20.25:226][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.20.25:268][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.20.25:268][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.20.25:305][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.20.25:313][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.08.11-23.20.25:338][794]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.08.11-23.21.29:604][726]LogEditorViewport: Clicking on Actor (LMB): FloorSwitch_BP_C (FloorSwitch_BP)
+[2019.08.11-23.22.11:483][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.22.11:575][571]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.22.11:597][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.22.11:597][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.22.11:597][571]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:22:11 PM)
+[2019.08.11-23.22.11:597][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.22.11:666][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068976s)
+[2019.08.11-23.22.11:667][571]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.22.11:668][571]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2019.08.11-23.22.11:668][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.070611s)
+[2019.08.11-23.22.11:703][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.08.11-23.22.11:733][571]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.22.11:747][571]LogInit: FAudioDevice initialized.
+[2019.08.11-23.22.11:783][571]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.22.11:808][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.22.11
+[2019.08.11-23.22.11:809][571]LogWorld: Bringing up level for play took: 0.026529
+[2019.08.11-23.22.11:823][571]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.22.11:823][571]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.22.11:823][571]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.22.11:828][571]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.22.11:828][571]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.978
+[2019.08.11-23.22.11:828][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.22.14:535][892]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.22.16:419][118]LogTemp: Warning: Overlap End.
+[2019.08.11-23.22.20:437][600]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.22.21:945][781]LogTemp: Warning: Overlap End.
+[2019.08.11-23.22.23:555][974]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.22.24:898][135]LogTemp: Warning: Overlap End.
+[2019.08.11-23.22.26:214][293]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.22.27:424][438]LogTemp: Warning: Overlap End.
+[2019.08.11-23.22.33:376][152]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.22.34:268][259]LogTemp: Warning: Overlap End.
+[2019.08.11-23.22.40:337][987]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.22.41:029][ 70]LogTemp: Warning: Overlap End.
+[2019.08.11-23.22.45:868][650]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.22.46:827][765]LogTemp: Warning: Overlap End.
+[2019.08.11-23.22.50:480][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.22.50:481][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.22.50:525][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.22.50:525][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.22.50:560][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.22.50:567][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.08.11-23.22.50:591][204]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.11-23.26.41:833][806]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor_Lower)
+[2019.08.11-23.26.41:887][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.26.44:550][111]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor_Lower)
+[2019.08.11-23.26.44:580][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.27.01:329][126]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor_Lower)
+[2019.08.11-23.27.01:371][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.27.02:482][223]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.08.11-23.27.05:536][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.27.05:536][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.27.05:536][572]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:27:05 PM)
+[2019.08.11-23.27.05:536][572]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.27.05:603][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066264s)
+[2019.08.11-23.27.05:603][572]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.27.05:604][572]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2019.08.11-23.27.05:604][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.067826s)
+[2019.08.11-23.27.05:632][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.11-23.27.05:662][572]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.27.05:676][572]LogInit: FAudioDevice initialized.
+[2019.08.11-23.27.05:677][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.27.05:712][572]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.27.05:769][572]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.27.05
+[2019.08.11-23.27.05:771][572]LogWorld: Bringing up level for play took: 0.056752
+[2019.08.11-23.27.05:785][572]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.27.05:785][572]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.27.05:786][572]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.27.05:789][572]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.27.05:790][572]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.939
+[2019.08.11-23.27.05:790][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.27.10:276][ 98]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.27.11:031][188]LogTemp: Warning: Overlap End.
+[2019.08.11-23.27.16:827][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.27.16:828][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.27.16:871][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.27.16:871][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.27.16:906][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.27.16:915][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.11-23.27.16:939][884]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.11-23.28.00:850][ 27]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Window_30)
+[2019.08.11-23.28.00:898][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.28.04:670][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.04:670][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.28.04:670][424]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:28:04 PM)
+[2019.08.11-23.28.04:671][424]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.28.04:748][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077190s)
+[2019.08.11-23.28.04:749][424]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.28.04:749][424]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2019.08.11-23.28.04:749][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.078902s)
+[2019.08.11-23.28.04:782][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.11-23.28.04:813][424]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.28.04:826][424]LogInit: FAudioDevice initialized.
+[2019.08.11-23.28.04:826][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.28.04:861][424]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.28.04:891][424]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.28.04
+[2019.08.11-23.28.04:892][424]LogWorld: Bringing up level for play took: 0.029979
+[2019.08.11-23.28.04:906][424]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.28.04:906][424]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.28.04:906][424]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.28.04:909][424]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.28.04:909][424]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.059
+[2019.08.11-23.28.04:909][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.13:505][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.13:506][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.28.13:548][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.28.13:549][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.13:583][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.28.13:590][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.08.11-23.28.13:614][449]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.08.11-23.28.19:727][148]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Statue_2)
+[2019.08.11-23.28.19:776][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.28.22:520][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.22:521][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.28.22:521][399]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:28:22 PM)
+[2019.08.11-23.28.22:521][399]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.28.22:586][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064980s)
+[2019.08.11-23.28.22:586][399]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.28.22:587][399]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.08.11-23.28.22:587][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.066363s)
+[2019.08.11-23.28.22:617][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.08.11-23.28.22:649][399]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.28.22:665][399]LogInit: FAudioDevice initialized.
+[2019.08.11-23.28.22:665][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.28.22:703][399]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.28.22:732][399]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.28.22
+[2019.08.11-23.28.22:733][399]LogWorld: Bringing up level for play took: 0.029622
+[2019.08.11-23.28.22:748][399]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.28.22:749][399]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.28.22:749][399]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.28.22:751][399]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.28.22:752][399]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.098
+[2019.08.11-23.28.22:752][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.26:183][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.26:184][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.28.26:219][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.28.26:220][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.26:251][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.28.26:261][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.08.11-23.28.26:285][807]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.08.11-23.28.29:948][226]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_BrickWall_11)
+[2019.08.11-23.28.29:995][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.28.35:627][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.35:627][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.28.35:627][737]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:28:35 PM)
+[2019.08.11-23.28.35:628][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.28.35:692][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063989s)
+[2019.08.11-23.28.35:693][737]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.28.35:693][737]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2019.08.11-23.28.35:693][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.065621s)
+[2019.08.11-23.28.35:724][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.08.11-23.28.35:753][737]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.28.35:766][737]LogInit: FAudioDevice initialized.
+[2019.08.11-23.28.35:766][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.28.35:802][737]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.28.35:828][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.28.35
+[2019.08.11-23.28.35:829][737]LogWorld: Bringing up level for play took: 0.026875
+[2019.08.11-23.28.35:843][737]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.28.35:843][737]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.28.35:844][737]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.28.35:846][737]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.28.35:846][737]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.997
+[2019.08.11-23.28.35:847][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.44:997][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.44:997][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.28.45:039][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.28.45:039][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.28.45:075][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.28.45:083][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.11-23.28.45:107][831]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.08.11-23.29.11:042][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.08.11-23.29.12:354][156]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTemple_Auto3AA4C7F57456FB5E4BF8C1F9CA123DF5C.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Autosaves/Game/Maps/SunTemple_Auto3.umap'
+[2019.08.11-23.29.12:359][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SunTemple' took 1.357
+[2019.08.11-23.29.12:359][156]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.357
+[2019.08.11-23.39.00:059][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.39.00:201][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.08.11-23.39.01:575][252]LogSlate: Window 'Save Content' being destroyed
+[2019.08.11-23.39.01:587][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.39.01:628][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.08.11-23.39.02:784][252]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTemple00D51B104FE8C0C4101678B1E6730A4C.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/Maps/SunTemple.umap'
+[2019.08.11-23.39.02:831][252]LogFileHelpers: Saving map 'SunTemple' took 1.239
+[2019.08.11-23.39.08:573][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.39.08:737][718]Candidate modules for hot reload:
+[2019.08.11-23.39.08:737][718]  MyProject
+[2019.08.11-23.39.08:737][718]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,6515 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject" "C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2019.08.11-23.39.08:742][718]Warning: Starting HotReload took  0.0s.
+[2019.08.11-23.39.19:569][985]CompilerResultsLog: New page: Compilation - Aug 11, 2019, 5:39:19 PM
+[2019.08.11-23.39.19:570][985]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Alexandre\Documents\GitHub\UnrealCourse).
+[2019.08.11-23.39.19:570][985]CompilerResultsLog: Creating makefile for MyProjectEditor (ini files are newer than makefile)
+[2019.08.11-23.39.19:570][985]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2019.08.11-23.39.19:570][985]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\MyProject.uproject" "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.11-23.39.19:570][985]CompilerResultsLog: Error: C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Source/MyProject/FloorSwitch.h(38)  : LogCompile: Error: Unknown variable specifier 'EditAnyshere'
+[2019.08.11-23.39.19:570][985]LogMainFrame: MainFrame: Module compiling took 10.836 seconds
+[2019.08.11-23.39.19:571][985]Warning: HotReload failed, recompile failed
+[2019.08.11-23.39.49:146][ 42]LogSlate: Window 'Message Log' being destroyed
+[2019.08.11-23.39.49:148][ 42]LogSlate: Window 'Message Log' being destroyed
+[2019.08.11-23.39.54:580][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.39.54:741][427]Candidate modules for hot reload:
+[2019.08.11-23.39.54:741][427]  MyProject
+[2019.08.11-23.39.54:741][427]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,8767 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject" "C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2019.08.11-23.39.54:746][427]Warning: Starting HotReload took  0.0s.
+[2019.08.11-23.40.08:829][ 87]CompilerResultsLog: New page: Compilation - Aug 11, 2019, 5:40:08 PM
+[2019.08.11-23.40.08:829][ 87]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Alexandre\Documents\GitHub\UnrealCourse).
+[2019.08.11-23.40.08:829][ 87]CompilerResultsLog: Creating makefile for MyProjectEditor (ini files are newer than makefile)
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\MyProject.uproject" "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog: Reflection code generated for MyProjectEditor in 8,1697146 seconds
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.40.08:830][ 87]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog:   [1/6] FloorSwitch.cpp
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog:    C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp(70) : error C2276: '&': opera??o inv?lida na express?o de fun??o membro associada
+[2019.08.11-23.40.08:831][ 87]CompilerResultsLog:    C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp(70) : error C2664: 'void FTimerManager::SetTimer(FTimerHandle &,TFunction<void (void)> &&,float,bool,float)': n?o ? poss?vel converter um argumento 2 de 'AFloorSwitch *' em 'float'
+[2019.08.11-23.40.08:832][ 87]CompilerResultsLog:   C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp(70): note: N?o h? contexto no qual esta convers?o seja poss?vel
+[2019.08.11-23.40.08:832][ 87]CompilerResultsLog:   [2/6] MyProject.init.gen.cpp
+[2019.08.11-23.40.08:832][ 87]CompilerResultsLog:   [3/6] FloorSwitch.gen.cpp
+[2019.08.11-23.40.08:832][ 87]LogMainFrame: MainFrame: Module compiling took 14.094 seconds
+[2019.08.11-23.40.08:832][ 87]Warning: HotReload failed, recompile failed
+[2019.08.11-23.41.02:379][764]LogSlate: Window 'Message Log' being destroyed
+[2019.08.11-23.41.02:381][764]LogSlate: Window 'Message Log' being destroyed
+[2019.08.11-23.41.04:979][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.41.05:150][971]Candidate modules for hot reload:
+[2019.08.11-23.41.05:150][971]  MyProject
+[2019.08.11-23.41.05:151][971]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,6673 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject" "C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2019.08.11-23.41.05:155][971]Warning: Starting HotReload took  0.0s.
+[2019.08.11-23.41.17:826][460]CompilerResultsLog: New page: Compilation - Aug 11, 2019, 5:41:17 PM
+[2019.08.11-23.41.17:827][460]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Alexandre\Documents\GitHub\UnrealCourse).
+[2019.08.11-23.41.17:827][460]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2019.08.11-23.41.17:827][460]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\MyProject.uproject" "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.11-23.41.17:827][460]CompilerResultsLog: Reflection code generated for MyProjectEditor in 8,2958637 seconds
+[2019.08.11-23.41.17:827][460]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.41.17:827][460]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.41.17:828][460]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.41.17:828][460]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.41.17:828][460]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.41.17:828][460]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.41.17:828][460]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.41.17:828][460]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.41.17:828][460]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.11-23.41.17:828][460]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.11-23.41.17:829][460]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.08.11-23.41.17:829][460]CompilerResultsLog:   [1/4] FloorSwitch.cpp
+[2019.08.11-23.41.17:829][460]CompilerResultsLog:    C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp(70) : error C3867: 'AFloorSwitch::CloseDoor': sintaxe n?o padr?o. Use "&" para criar um ponteiro para membro
+[2019.08.11-23.41.17:829][460]CompilerResultsLog:    C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp(70) : error C2664: 'void FTimerManager::SetTimer(FTimerHandle &,TFunction<void (void)> &&,float,bool,float)': n?o ? poss?vel converter um argumento 2 de 'AFloorSwitch *' em 'const FTimerDelegate &'
+[2019.08.11-23.41.17:829][460]CompilerResultsLog:   C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp(70): note: Raz?o: n?o ? poss?vel converter de 'AFloorSwitch *' para 'const FTimerDelegate'
+[2019.08.11-23.41.17:829][460]CompilerResultsLog:   C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp(70): note: Nenhum construtor p?de receber o tipo de origem, ou resolu??o de sobrecarga de construtor foi amb?gua
+[2019.08.11-23.41.17:829][460]LogMainFrame: MainFrame: Module compiling took 12.682 seconds
+[2019.08.11-23.41.17:830][460]Warning: HotReload failed, recompile failed
+[2019.08.11-23.41.43:350][511]LogSlate: Window 'Message Log' being destroyed
+[2019.08.11-23.41.43:354][511]LogSlate: Window 'Message Log' being destroyed
+[2019.08.11-23.42.07:258][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.42.07:418][927]Candidate modules for hot reload:
+[2019.08.11-23.42.07:418][927]  MyProject
+[2019.08.11-23.42.07:419][927]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,7174 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject" "C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2019.08.11-23.42.07:423][927]Warning: Starting HotReload took  0.0s.
+[2019.08.11-23.42.21:896][633]CompilerResultsLog: New page: Compilation - Aug 11, 2019, 5:42:21 PM
+[2019.08.11-23.42.21:897][633]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Alexandre\Documents\GitHub\UnrealCourse).
+[2019.08.11-23.42.21:897][633]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2019.08.11-23.42.21:897][633]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\MyProject.uproject" "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.11-23.42.21:897][633]CompilerResultsLog: Reflection code generated for MyProjectEditor in 8,1478976 seconds
+[2019.08.11-23.42.21:897][633]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.42.21:897][633]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.42.21:897][633]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.42.21:897][633]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.42.21:898][633]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.42.21:898][633]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.42.21:898][633]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.42.21:898][633]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.42.21:898][633]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.11-23.42.21:898][633]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.11-23.42.21:898][633]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.08.11-23.42.21:898][633]CompilerResultsLog:   [1/4] FloorSwitch.cpp
+[2019.08.11-23.42.21:898][633]CompilerResultsLog:   [2/4] UE4Editor-MyProject-7174.lib
+[2019.08.11-23.42.21:899][633]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7174.lib e objeto C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7174.exp
+[2019.08.11-23.42.21:899][633]CompilerResultsLog:   [3/4] UE4Editor-MyProject-7174.dll
+[2019.08.11-23.42.21:899][633]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7174.suppressed.lib e objeto C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7174.suppressed.exp
+[2019.08.11-23.42.21:899][633]CompilerResultsLog:   [4/4] MyProjectEditor.target
+[2019.08.11-23.42.21:899][633]CompilerResultsLog: Total time in Parallel executor: 2,71 seconds
+[2019.08.11-23.42.21:899][633]CompilerResultsLog: Total execution time: 14,36 seconds
+[2019.08.11-23.42.21:899][633]LogMainFrame: MainFrame: Module compiling took 14.483 seconds
+[2019.08.11-23.42.21:939][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.08.11-23.42.21:940][633]LogBlueprintActionDatabase: Requesting refresh due to module change: MyProject (unloaded)
+[2019.08.11-23.42.21:974][633]LogClass: Could not find existing class FloorSwitch in package /Script/MyProject for HotReload, assuming new class
+[2019.08.11-23.42.21:974][633]LogClass: Function OnOverlapBegin is new.
+[2019.08.11-23.42.21:974][633]LogClass: Function OnOverlapEnd is new.
+[2019.08.11-23.42.21:974][633]LogClass: Function UpdateDoorLocation is new.
+[2019.08.11-23.42.21:974][633]LogClass: Function UpdateFloorSwitchLocation is new.
+[2019.08.11-23.42.21:994][633]LogHotReload: Re-instancing FloorSwitch after hot-reload.
+[2019.08.11-23.42.22:475][633]LogBlueprintActionDatabase: Requesting refresh due to module change: MyProject (loaded)
+[2019.08.11-23.42.22:477][633]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0012 seconds. Added 7 classes and 2 folders.
+[2019.08.11-23.42.22:484][633]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.08.11-23.42.22:576][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.08.11-23.42.22:577][633]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.08.11-23.42.22:599][633]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2740 classes and 663 folders.
+[2019.08.11-23.42.22:599][633]Display: HotReload took 15.2s.
+[2019.08.11-23.42.24:989][861]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.42.25:009][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.42.25:009][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.42.25:009][861]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:42:25 PM)
+[2019.08.11-23.42.25:009][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.42.25:083][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073468s)
+[2019.08.11-23.42.25:084][861]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.42.25:085][861]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2019.08.11-23.42.25:085][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.075632s)
+[2019.08.11-23.42.25:177][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.08.11-23.42.25:210][861]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.42.25:224][861]LogInit: FAudioDevice initialized.
+[2019.08.11-23.42.25:258][861]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.42.25:291][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.42.25
+[2019.08.11-23.42.25:292][861]LogWorld: Bringing up level for play took: 0.033093
+[2019.08.11-23.42.25:306][861]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.42.25:307][861]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.42.25:307][861]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.42.25:309][861]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.42.25:309][861]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.46
+[2019.08.11-23.42.25:310][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.42.28:376][213]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.42.29:655][364]LogTemp: Warning: Overlap End.
+[2019.08.11-23.42.32:779][739]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.42.34:112][899]LogTemp: Warning: Overlap End.
+[2019.08.11-23.42.37:063][253]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.42.38:263][397]LogTemp: Warning: Overlap End.
+[2019.08.11-23.42.41:286][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.42.41:286][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.42.41:325][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.42.41:326][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.42.41:367][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.42.41:409][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.08.11-23.42.41:434][760]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.08.11-23.48.57:743][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-23.48.57:940][169]Candidate modules for hot reload:
+[2019.08.11-23.48.57:940][169]  MyProject
+[2019.08.11-23.48.57:940][169]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,5125 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject" "C:/Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2019.08.11-23.48.57:945][169]Warning: Starting HotReload took  0.0s.
+[2019.08.11-23.49.14:074][ 72]CompilerResultsLog: New page: Compilation - Aug 11, 2019, 5:49:14 PM
+[2019.08.11-23.49.14:074][ 72]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Alexandre\Documents\GitHub\UnrealCourse).
+[2019.08.11-23.49.14:074][ 72]CompilerResultsLog: Creating makefile for MyProjectEditor (ini files are newer than makefile)
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\MyProject.uproject" "C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog: Reflection code generated for MyProjectEditor in 8,5138231 seconds
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.49.14:075][ 72]CompilerResultsLog: Attempting to retry...
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog: Failed to delete file 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb'
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog:     Exception: O acesso ao caminho 'C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Binaries\Win64\UE4Editor-MyProject.pdb' foi negado.
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog:   [1/5] FloorSwitch.gen.cpp
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog:   [2/5] FloorSwitch.cpp
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog:   [3/5] UE4Editor-MyProject-5125.lib
+[2019.08.11-23.49.14:076][ 72]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-5125.lib e objeto C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-5125.exp
+[2019.08.11-23.49.14:077][ 72]CompilerResultsLog:   [4/5] UE4Editor-MyProject-5125.dll
+[2019.08.11-23.49.14:077][ 72]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-5125.suppressed.lib e objeto C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-5125.suppressed.exp
+[2019.08.11-23.49.14:077][ 72]CompilerResultsLog:   [5/5] MyProjectEditor.target
+[2019.08.11-23.49.14:077][ 72]CompilerResultsLog: Total time in Parallel executor: 2,70 seconds
+[2019.08.11-23.49.14:077][ 72]CompilerResultsLog: Total execution time: 16,02 seconds
+[2019.08.11-23.49.14:077][ 72]LogMainFrame: MainFrame: Module compiling took 16.140 seconds
+[2019.08.11-23.49.14:112][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.08.11-23.49.14:114][ 72]LogBlueprintActionDatabase: Requesting refresh due to module change: MyProject (unloaded)
+[2019.08.11-23.49.14:198][ 72]LogBlueprintActionDatabase: Requesting refresh due to module change: MyProject (loaded)
+[2019.08.11-23.49.14:198][ 72]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0006 seconds. Added 7 classes and 2 folders.
+[2019.08.11-23.49.14:203][ 72]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2019.08.11-23.49.14:279][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.08.11-23.49.14:280][ 72]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.08.11-23.49.14:299][ 72]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2740 classes and 663 folders.
+[2019.08.11-23.49.14:299][ 72]Display: HotReload took 16.4s.
+[2019.08.11-23.49.33:492][322]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-23.49.33:513][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.49.33:514][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-23.49.33:514][322]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 5:49:33 PM)
+[2019.08.11-23.49.33:514][322]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.11-23.49.33:598][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083129s)
+[2019.08.11-23.49.33:599][322]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.11-23.49.33:599][322]LogPlayLevel: PIE: World Init took: (0.001764s)
+[2019.08.11-23.49.33:600][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.085690s)
+[2019.08.11-23.49.33:690][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.08.11-23.49.33:720][322]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-23.49.33:734][322]LogInit: FAudioDevice initialized.
+[2019.08.11-23.49.33:770][322]LogLoad: Game class is 'MyGame_C'
+[2019.08.11-23.49.33:793][322]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.11-20.49.33
+[2019.08.11-23.49.33:794][322]LogWorld: Bringing up level for play took: 0.023111
+[2019.08.11-23.49.33:809][322]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.49.33:809][322]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-23.49.33:809][322]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.49.33:812][322]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-23.49.33:812][322]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.962
+[2019.08.11-23.49.33:812][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.49.35:577][520]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.49.40:522][113]LogTemp: Warning: Overlap End.
+[2019.08.11-23.49.43:775][503]LogTemp: Warning: Overlap Begin.
+[2019.08.11-23.49.47:951][  4]LogTemp: Warning: Overlap End.
+[2019.08.11-23.49.53:113][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.49.53:113][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.49.53:154][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-23.49.53:154][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.11-23.49.53:198][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-23.49.53:225][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.08.11-23.49.53:250][624]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.08.11-23.50.54:640][987]LogHttp: Warning: 00000128C76D2E80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x128af0c3f70 [can pipeline])
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 1 (Re-using existing connection! (#71) with host datarouter.ol.epicgames.com)
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.102.187) port 443 (#71))
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.11-23.50.54:641][987]LogHttp: Warning: 00000128C76D2E80: libcurl info message cache 7 (Closing connection 71)
+[2019.08.11-23.50.54:649][988]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5CF71CF9-4033-D4B3-1E3A-97A0B90CA862%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=34d930374028ee3282fbc48fc9e77896%7C2cbb1949c0ea488b9c20602d723489e6%7Ce98096cd-8710-4a64-94f6-b9e55df23ab9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.11-23.52.42:028][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-23.52.43:192][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.08.11-23.52.44:272][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.12-03.19.56:928][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.12-03.20.03:890][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.12-03.20.04:026][204]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.12-03.20.04:052][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.04:053][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.12-03.20.04:053][204]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 9:20:04 PM)
+[2019.08.12-03.20.04:053][204]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.12-03.20.04:122][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068600s)
+[2019.08.12-03.20.04:123][204]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.12-03.20.04:123][204]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2019.08.12-03.20.04:124][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.070439s)
+[2019.08.12-03.20.04:159][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.08.12-03.20.04:189][204]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.12-03.20.04:205][204]LogInit: FAudioDevice initialized.
+[2019.08.12-03.20.04:239][204]LogLoad: Game class is 'MyGame_C'
+[2019.08.12-03.20.04:261][204]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.12-00.20.04
+[2019.08.12-03.20.04:264][204]LogWorld: Bringing up level for play took: 0.023796
+[2019.08.12-03.20.04:278][204]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.12-03.20.04:278][204]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.12-03.20.04:278][204]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.12-03.20.04:281][204]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.12-03.20.04:281][204]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.569
+[2019.08.12-03.20.04:282][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.09:564][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.09:565][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.12-03.20.09:603][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.12-03.20.09:603][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.09:646][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.12-03.20.09:655][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.12-03.20.09:684][826]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.12-03.20.10:393][909]LogEditorViewport: Clicking on Actor (LMB): Critter_BP_C (Critter_BP)
+[2019.08.12-03.20.14:845][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.12-03.20.14:946][373]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.12-03.20.14:966][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.14:967][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.12-03.20.14:967][373]PIE: New page: PIE session: SunTemple (Aug 11, 2019, 9:20:14 PM)
+[2019.08.12-03.20.14:967][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2019.08.12-03.20.15:036][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068375s)
+[2019.08.12-03.20.15:037][373]LogAIModule: Creating AISystem for world SunTemple
+[2019.08.12-03.20.15:037][373]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2019.08.12-03.20.15:038][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.070575s)
+[2019.08.12-03.20.15:072][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.08.12-03.20.15:104][373]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.12-03.20.15:119][373]LogInit: FAudioDevice initialized.
+[2019.08.12-03.20.15:154][373]LogLoad: Game class is 'MyGame_C'
+[2019.08.12-03.20.15:192][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2019.08.12-00.20.15
+[2019.08.12-03.20.15:194][373]LogWorld: Bringing up level for play took: 0.038296
+[2019.08.12-03.20.15:208][373]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.12-03.20.15:208][373]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.12-03.20.15:209][373]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.12-03.20.15:211][373]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.12-03.20.15:211][373]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.362
+[2019.08.12-03.20.15:212][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.20:466][992]LogTemp: Warning: Overlap Begin.
+[2019.08.12-03.20.21:012][ 57]LogTemp: Warning: Overlap End.
+[2019.08.12-03.20.23:908][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.23:908][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.12-03.20.23:949][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.12-03.20.23:950][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2019.08.12-03.20.23:985][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.12-03.20.23:995][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.08.12-03.20.24:024][405]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.08.12-03.20.48:987][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.08.12-03.20.50:207][690]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTemple_Auto49F1305E84F0A24CFA3681D94365F33DD.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/Autosaves/Game/Maps/SunTemple_Auto4.umap'
+[2019.08.12-03.20.50:215][690]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SunTemple' took 1.259
+[2019.08.12-03.20.50:215][690]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.259
+[2019.08.12-03.21.25:707][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.12-03.21.26:578][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.08.12-03.21.26:584][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.12-03.21.26:616][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.08.12-03.21.27:744][979]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Saved/SunTempleBDE08ED4400F625F9ACA789FD2C51829.tmp' to '../../../../../../Users/Alexandre/Documents/GitHub/UnrealCourse/MyProject/Content/Maps/SunTemple.umap'
+[2019.08.12-03.21.27:793][979]LogFileHelpers: Saving map 'SunTemple' took 1.204

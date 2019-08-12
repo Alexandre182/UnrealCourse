@@ -1,6 +1,6 @@
-C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-c:\users\alexandre\desktop\myproject\source\myproject\MainAnimInstance.h
-C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MainAnimInstance.generated.h
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+c:\users\alexandre\documents\github\unrealcourse\myproject\source\myproject\MainAnimInstance.h
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MainAnimInstance.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h

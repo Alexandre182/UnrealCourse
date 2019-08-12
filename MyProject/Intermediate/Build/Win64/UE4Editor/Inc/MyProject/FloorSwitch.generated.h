@@ -18,6 +18,24 @@ struct FHitResult;
 
 #define MyProject_Source_MyProject_FloorSwitch_h_12_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execUpdateFloorSwitchLocation) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_Z); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->UpdateFloorSwitchLocation(Z_Param_Z); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execUpdateDoorLocation) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_Z); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->UpdateDoorLocation(Z_Param_Z); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execOnOverlapEnd) \
 	{ \
 		P_GET_OBJECT(UPrimitiveComponent,Z_Param_OverlappedComponent); \
@@ -46,6 +64,24 @@ struct FHitResult;
 
 
 #define MyProject_Source_MyProject_FloorSwitch_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execUpdateFloorSwitchLocation) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_Z); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->UpdateFloorSwitchLocation(Z_Param_Z); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execUpdateDoorLocation) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_Z); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->UpdateDoorLocation(Z_Param_Z); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execOnOverlapEnd) \
 	{ \

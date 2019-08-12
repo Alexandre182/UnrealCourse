@@ -1,5 +1,5 @@
-C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-c:\users\alexandre\desktop\myproject\source\myproject\ColliderMovementComponent.h
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+c:\users\alexandre\documents\github\unrealcourse\myproject\source\myproject\ColliderMovementComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
@@ -8,4 +8,4 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
-C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\ColliderMovementComponent.generated.h
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\ColliderMovementComponent.generated.h

@@ -1,5 +1,5 @@
-C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Alexandre\Desktop\MyProject\Source\MyProject/Floater.h
-c:\users\alexandre\desktop\myproject\intermediate\build\win64\ue4editor\inc\myproject\Floater.generated.h
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject/Floater.h
+c:\users\alexandre\documents\github\unrealcourse\myproject\intermediate\build\win64\ue4editor\inc\myproject\Floater.generated.h

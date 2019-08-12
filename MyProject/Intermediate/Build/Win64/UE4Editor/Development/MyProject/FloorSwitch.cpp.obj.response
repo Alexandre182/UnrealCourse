@@ -426,20 +426,20 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject
-/I C:\Users\Alexandre\Desktop\MyProject\Source
-/I C:\Users\Alexandre\Desktop\MyProject\Source\MyProject
+/I C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject
+/I C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source
+/I C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Alexandre\Desktop\MyProject\Source\MyProject\FloorSwitch.cpp"
-/FI"C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
-/Fo"C:\Users\Alexandre\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\FloorSwitch.cpp.obj"
+/FI"C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Source\MyProject\FloorSwitch.cpp"
+/FI"C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
+/Fo"C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\FloorSwitch.cpp.obj"
 /TP
 /GR-
 /W4

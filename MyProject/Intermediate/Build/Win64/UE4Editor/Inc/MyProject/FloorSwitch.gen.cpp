@@ -18,12 +18,17 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_MyProject();
 	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_LowerDoor();
+	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch();
 	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_OnOverlapBegin();
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 	ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_OnOverlapEnd();
 	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_RaiseDoor();
+	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch();
+	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation();
+	MYPROJECT_API UFunction* Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation();
+	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 // End Cross Module References
@@ -32,10 +37,20 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 	{
 		ProcessEvent(FindFunctionChecked(NAME_AFloorSwitch_LowerDoor),NULL);
 	}
+	static FName NAME_AFloorSwitch_LowerFloorSwitch = FName(TEXT("LowerFloorSwitch"));
+	void AFloorSwitch::LowerFloorSwitch()
+	{
+		ProcessEvent(FindFunctionChecked(NAME_AFloorSwitch_LowerFloorSwitch),NULL);
+	}
 	static FName NAME_AFloorSwitch_RaiseDoor = FName(TEXT("RaiseDoor"));
 	void AFloorSwitch::RaiseDoor()
 	{
 		ProcessEvent(FindFunctionChecked(NAME_AFloorSwitch_RaiseDoor),NULL);
+	}
+	static FName NAME_AFloorSwitch_RaiseFloorSwitch = FName(TEXT("RaiseFloorSwitch"));
+	void AFloorSwitch::RaiseFloorSwitch()
+	{
+		ProcessEvent(FindFunctionChecked(NAME_AFloorSwitch_RaiseFloorSwitch),NULL);
 	}
 	void AFloorSwitch::StaticRegisterNativesAFloorSwitch()
 	{
@@ -43,6 +58,8 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 		static const FNameNativePtrPair Funcs[] = {
 			{ "OnOverlapBegin", &AFloorSwitch::execOnOverlapBegin },
 			{ "OnOverlapEnd", &AFloorSwitch::execOnOverlapEnd },
+			{ "UpdateDoorLocation", &AFloorSwitch::execUpdateDoorLocation },
+			{ "UpdateFloorSwitchLocation", &AFloorSwitch::execUpdateFloorSwitchLocation },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -66,6 +83,29 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFloorSwitch_LowerDoor_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Floor Switch" },
+		{ "ModuleRelativePath", "FloorSwitch.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AFloorSwitch, nullptr, "LowerFloorSwitch", 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -233,6 +273,95 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Floor Switch" },
+		{ "ModuleRelativePath", "FloorSwitch.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AFloorSwitch, nullptr, "RaiseFloorSwitch", 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics
+	{
+		struct FloorSwitch_eventUpdateDoorLocation_Parms
+		{
+			float Z;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Z;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::NewProp_Z = { "Z", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FloorSwitch_eventUpdateDoorLocation_Parms, Z), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::NewProp_Z,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Floor Switch" },
+		{ "ModuleRelativePath", "FloorSwitch.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AFloorSwitch, nullptr, "UpdateDoorLocation", sizeof(FloorSwitch_eventUpdateDoorLocation_Parms), Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics
+	{
+		struct FloorSwitch_eventUpdateFloorSwitchLocation_Parms
+		{
+			float Z;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Z;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::NewProp_Z = { "Z", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FloorSwitch_eventUpdateFloorSwitchLocation_Parms, Z), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::NewProp_Z,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Floor Switch" },
+		{ "ModuleRelativePath", "FloorSwitch.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AFloorSwitch, nullptr, "UpdateFloorSwitchLocation", sizeof(FloorSwitch_eventUpdateFloorSwitchLocation_Parms), Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_AFloorSwitch_NoRegister()
 	{
 		return AFloorSwitch::StaticClass();
@@ -244,6 +373,18 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_SwitchTime_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_SwitchTime;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_InitialSwitchLocation_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_InitialSwitchLocation;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_InitialDoorLocation_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_InitialDoorLocation;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Door_MetaData[];
 #endif
@@ -266,9 +407,13 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AFloorSwitch_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AFloorSwitch_LowerDoor, "LowerDoor" }, // 682781128
+		{ &Z_Construct_UFunction_AFloorSwitch_LowerFloorSwitch, "LowerFloorSwitch" }, // 966128284
 		{ &Z_Construct_UFunction_AFloorSwitch_OnOverlapBegin, "OnOverlapBegin" }, // 4062965513
 		{ &Z_Construct_UFunction_AFloorSwitch_OnOverlapEnd, "OnOverlapEnd" }, // 1123923198
 		{ &Z_Construct_UFunction_AFloorSwitch_RaiseDoor, "RaiseDoor" }, // 4130473079
+		{ &Z_Construct_UFunction_AFloorSwitch_RaiseFloorSwitch, "RaiseFloorSwitch" }, // 21139856
+		{ &Z_Construct_UFunction_AFloorSwitch_UpdateDoorLocation, "UpdateDoorLocation" }, // 1901275797
+		{ &Z_Construct_UFunction_AFloorSwitch_UpdateFloorSwitchLocation, "UpdateFloorSwitchLocation" }, // 4160551024
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFloorSwitch_Statics::Class_MetaDataParams[] = {
@@ -276,6 +421,27 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 		{ "ModuleRelativePath", "FloorSwitch.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFloorSwitch_Statics::NewProp_SwitchTime_MetaData[] = {
+		{ "Category", "Floor Switch" },
+		{ "ModuleRelativePath", "FloorSwitch.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AFloorSwitch_Statics::NewProp_SwitchTime = { "SwitchTime", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AFloorSwitch, SwitchTime), METADATA_PARAMS(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_SwitchTime_MetaData, ARRAY_COUNT(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_SwitchTime_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialSwitchLocation_MetaData[] = {
+		{ "Category", "Floor Switch" },
+		{ "ModuleRelativePath", "FloorSwitch.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialSwitchLocation = { "InitialSwitchLocation", nullptr, (EPropertyFlags)0x0010000000000004, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AFloorSwitch, InitialSwitchLocation), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialSwitchLocation_MetaData, ARRAY_COUNT(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialSwitchLocation_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialDoorLocation_MetaData[] = {
+		{ "Category", "Floor Switch" },
+		{ "ModuleRelativePath", "FloorSwitch.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialDoorLocation = { "InitialDoorLocation", nullptr, (EPropertyFlags)0x0010000000000004, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AFloorSwitch, InitialDoorLocation), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialDoorLocation_MetaData, ARRAY_COUNT(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialDoorLocation_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFloorSwitch_Statics::NewProp_Door_MetaData[] = {
 		{ "Category", "Floor Switch" },
@@ -304,6 +470,9 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AFloorSwitch_Statics::NewProp_TriggerBox = { "TriggerBox", nullptr, (EPropertyFlags)0x00100000000a000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AFloorSwitch, TriggerBox), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_TriggerBox_MetaData, ARRAY_COUNT(Z_Construct_UClass_AFloorSwitch_Statics::NewProp_TriggerBox_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AFloorSwitch_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AFloorSwitch_Statics::NewProp_SwitchTime,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialSwitchLocation,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AFloorSwitch_Statics::NewProp_InitialDoorLocation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AFloorSwitch_Statics::NewProp_Door,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AFloorSwitch_Statics::NewProp_FloorSwitch,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AFloorSwitch_Statics::NewProp_TriggerBox,
@@ -335,7 +504,7 @@ void EmptyLinkFunctionForGeneratedCodeFloorSwitch() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AFloorSwitch, 1656357696);
+	IMPLEMENT_CLASS(AFloorSwitch, 496079271);
 	template<> MYPROJECT_API UClass* StaticClass<AFloorSwitch>()
 	{
 		return AFloorSwitch::StaticClass();
