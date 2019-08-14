@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MyProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BCC19DA8-C8F7-4ACE-BAB1-3D3C916815F8}</UniqueIdentifier>
+      <UniqueIdentifier>{39C2AFE6-9B54-4DEF-BD43-275C9C35F3A9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{65D11E51-62E1-4D77-BD56-F710F583D2B7}</UniqueIdentifier>
+      <UniqueIdentifier>{263A6F8C-2631-443B-B099-829512A89FFA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MyProject">
-      <UniqueIdentifier>{DF464108-FF99-4295-860A-FDD57C9ED5F1}</UniqueIdentifier>
+      <UniqueIdentifier>{FBFDD200-0B6F-4B5B-927F-F6D2177A2E21}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\MyProject\Collider.cpp">
       <Filter>Source\MyProject</Filter>
@@ -53,10 +53,22 @@
     <ClInclude Include="..\..\Source\MyProject\Floater.h">
       <Filter>Source\MyProject</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\FloatingPlatform.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\FloatingPlatform.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\MyProject\FloorSwitch.cpp">
       <Filter>Source\MyProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\MyProject\FloorSwitch.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\Item.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Item.h">
       <Filter>Source\MyProject</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\MyProject\Main.cpp">

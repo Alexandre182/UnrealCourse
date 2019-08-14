@@ -19,15 +19,26 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 	UPackage* Z_Construct_UPackage__Script_MyProject();
 	MYPROJECT_API UFunction* Z_Construct_UFunction_ASpawnVolume_GetSpawnPoint();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
+	MYPROJECT_API UFunction* Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn();
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UObject_NoRegister();
 	MYPROJECT_API UClass* Z_Construct_UClass_ACritter_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 // End Cross Module References
+	static FName NAME_ASpawnVolume_SpawnOurPawn = FName(TEXT("SpawnOurPawn"));
+	void ASpawnVolume::SpawnOurPawn(UClass* ToSpawn, FVector const& Location)
+	{
+		SpawnVolume_eventSpawnOurPawn_Parms Parms;
+		Parms.ToSpawn=ToSpawn;
+		Parms.Location=Location;
+		ProcessEvent(FindFunctionChecked(NAME_ASpawnVolume_SpawnOurPawn),&Parms);
+	}
 	void ASpawnVolume::StaticRegisterNativesASpawnVolume()
 	{
 		UClass* Class = ASpawnVolume::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "GetSpawnPoint", &ASpawnVolume::execGetSpawnPoint },
+			{ "SpawnOurPawn", &ASpawnVolume::execSpawnOurPawn },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -64,6 +75,46 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Location_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_Location;
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_ToSpawn;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::NewProp_Location_MetaData[] = {
+		{ "NativeConst", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::NewProp_Location = { "Location", nullptr, (EPropertyFlags)0x0010000008000182, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(SpawnVolume_eventSpawnOurPawn_Parms, Location), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::NewProp_Location_MetaData, ARRAY_COUNT(Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::NewProp_Location_MetaData)) };
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::NewProp_ToSpawn = { "ToSpawn", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(SpawnVolume_eventSpawnOurPawn_Parms, ToSpawn), Z_Construct_UClass_UObject_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::NewProp_Location,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::NewProp_ToSpawn,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Spawning" },
+		{ "ModuleRelativePath", "SpawnVolume.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ASpawnVolume, nullptr, "SpawnOurPawn", sizeof(SpawnVolume_eventSpawnOurPawn_Parms), Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x0CC20C00, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_ASpawnVolume_NoRegister()
 	{
 		return ASpawnVolume::StaticClass();
@@ -93,6 +144,7 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ASpawnVolume_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ASpawnVolume_GetSpawnPoint, "GetSpawnPoint" }, // 2939232177
+		{ &Z_Construct_UFunction_ASpawnVolume_SpawnOurPawn, "SpawnOurPawn" }, // 2876851373
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASpawnVolume_Statics::Class_MetaDataParams[] = {
@@ -146,7 +198,7 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASpawnVolume, 8510329);
+	IMPLEMENT_CLASS(ASpawnVolume, 1552906643);
 	template<> MYPROJECT_API UClass* StaticClass<ASpawnVolume>()
 	{
 		return ASpawnVolume::StaticClass();

@@ -379,8 +379,12 @@
     <ClInclude Include="..\..\Source\MyProject\Critter.h"/>
     <ClCompile Include="..\..\Source\MyProject\Floater.cpp"/>
     <ClInclude Include="..\..\Source\MyProject\Floater.h"/>
+    <ClCompile Include="..\..\Source\MyProject\FloatingPlatform.cpp"/>
+    <ClInclude Include="..\..\Source\MyProject\FloatingPlatform.h"/>
     <ClCompile Include="..\..\Source\MyProject\FloorSwitch.cpp"/>
     <ClInclude Include="..\..\Source\MyProject\FloorSwitch.h"/>
+    <ClCompile Include="..\..\Source\MyProject\Item.cpp"/>
+    <ClInclude Include="..\..\Source\MyProject\Item.h"/>
     <ClCompile Include="..\..\Source\MyProject\Main.cpp"/>
     <ClInclude Include="..\..\Source\MyProject\Main.h"/>
     <ClCompile Include="..\..\Source\MyProject\MainAnimInstance.cpp"/>

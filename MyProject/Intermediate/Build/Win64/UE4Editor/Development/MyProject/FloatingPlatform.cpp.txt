@@ -1,0 +1,3 @@
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+c:\users\alexandre\documents\github\unrealcourse\myproject\source\myproject\FloatingPlatform.h
+C:\Users\Alexandre\Documents\GitHub\UnrealCourse\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\FloatingPlatform.generated.h
